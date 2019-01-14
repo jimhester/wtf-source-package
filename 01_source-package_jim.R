@@ -28,3 +28,8 @@ library(ps, lib.loc = tmp_lib)
 sessioninfo::package_info("ps")
 
 packageVersion("ps")
+
+#' Stretch goal
+## If that went well try installing the source version of git2r.
+## git2r has more complicated dependencies and takes longer to compile, but
+## it should install without problems

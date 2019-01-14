@@ -14,3 +14,8 @@
 
 #' Install version 1.2.0 of the ps package from CRAN
 ## Use install_version()
+
+#' Stretch goal
+## If that went well try installing the source version of git2r.
+## git2r has more complicated dependencies and takes longer to compile, but
+## it should install without problems
